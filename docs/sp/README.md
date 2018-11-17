@@ -1,7 +1,5 @@
 # Qué es Vuex?
 
-<a id="vuex-video-preview" href="javascript:var vuexVideoPreviewEl = document.getElementById('vuex-video-preview'); var videoWrapperEl = document.createElement('div'); videoWrapperEl.innerHTML = '<iframe src=&quot;https://player.vimeo.com/video/297515936?autoplay=1&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'; vuexVideoPreviewEl.parentNode.insertBefore(videoWrapperEl, vuexVideoPreviewEl); vuexVideoPreviewEl.parentNode.removeChild(vuexVideoPreviewEl)"><img src="/vuex-explained-visually.png" alt="Play Vuex Explained Visually Video" style="border-radius: 6px;"></a>
-
 Vuex es un **patrón de manejo de states + librería** para aplicaciones Vue.js. Sirve como un almacenamiento centralizado para todos los componentes de una aplicación, con reglas que aseguren que el state puede ser solo mutado por una acción predecible. También se integra con la extension oficial Vue's [devtools extensión](https://github.com/vuejs/vue-devtools) para proveer herramientas avanzadas como depuración zero-config time-travel y importación / exportación de snapshot del state.
 
 ### Que es un "Patrón de manejo de states"?
